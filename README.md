@@ -1,3 +1,3 @@
 # Chrome Extension
 
-## Scrimba Chrome Extenstion project
+## Scrimba Chrome Extension project
